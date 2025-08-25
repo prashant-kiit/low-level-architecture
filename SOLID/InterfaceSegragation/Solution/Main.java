@@ -1,4 +1,4 @@
-package SOLID.Liskov.Solution;
+package SOLID.InterfaceSegragation.Solution;
 
 // Common Bird interface
 interface Bird {

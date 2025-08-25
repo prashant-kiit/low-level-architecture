@@ -1,4 +1,4 @@
-package SOLID.Liskov.Problem;
+package SOLID.InterfaceSegragation.Problem;
 
 
 // Problems with heavy inheritance : 
